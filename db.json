@@ -1,4 +1,10 @@
 {
+  "Clientes":[
+    {
+      "id": 1,
+      "nome": "Etec Irma Agostina"
+    }
+  ],
   "fornecedores": [
     {
       "id": 1,
